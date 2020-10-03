@@ -54,7 +54,7 @@
 		{ name = "holy_order_warriors_of_sacred_lands" }
 	}
 
-	holy_order_maa = { rattan_archer }	
+	holy_order_maa = { teutonic_knights }	
 
 	
 		localization = {
