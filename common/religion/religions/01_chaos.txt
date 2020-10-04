@@ -103,11 +103,11 @@
 		khorne_faith = {
 			color = { 140 74 63 } # 204 0 0
 
+			holy_site = game_workshop
+			holy_site = ignacy_przybylski
 			holy_site = edge_of_world
 			holy_site = african_jungle_one
 			holy_site = african_jungle_two
-			holy_site = game_workshop
-			holy_site = ignacy_przybylski
 
 			doctrine = unreformed_faith_doctrine
 
@@ -216,11 +216,11 @@
 		slaanesh_faith = {
 			color = { 150 119 151 } # 204 0 0
 
-			holy_site = edge_of_world
-			holy_site = african_jungle_one
-			holy_site = african_jungle_two
 			holy_site = game_workshop
 			holy_site = ignacy_przybylski
+			holy_site = babylon
+			holy_site = ugarit
+			holy_site = gomorrah
 			
 			doctrine = doctrine_gender_equal
 			doctrine = doctrine_clerical_gender_either
@@ -333,11 +333,11 @@
 		nurgle_faith = {
 			color = { 97 119 70 } # 204 0 0
 
-			holy_site = edge_of_world
-			holy_site = african_jungle_one
-			holy_site = african_jungle_two
 			holy_site = game_workshop
 			holy_site = ignacy_przybylski
+			holy_site = mogadishu
+			holy_site = makhir
+			holy_site = harar
 
 			doctrine = unreformed_faith_doctrine
 
@@ -446,11 +446,11 @@
 		tzeentch_faith = {
 			color = { 80 98 120 } # 204 0 0
 
-			holy_site = edge_of_world
-			holy_site = african_jungle_one
-			holy_site = african_jungle_two
 			holy_site = game_workshop
 			holy_site = ignacy_przybylski
+			holy_site = athens
+			holy_site = alexandria
+			holy_site = rome
 
 			doctrine = unreformed_faith_doctrine
 
